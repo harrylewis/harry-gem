@@ -1,4 +1,4 @@
-require "harry/gem/version"
+require "gem/version"
 
 module Harry
   module Gem
